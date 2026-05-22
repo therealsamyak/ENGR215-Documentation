@@ -1,4 +1,19 @@
-Aegis Swarm Team Structure & Talent Plan
+This week’s assignment focuses on one of the most important—and often overlooked—parts of building a startup: the people.
+Many startup ideas fail not because the technology is impossible, but because the team lacks the right structure, skills, leadership alignment, execution capability, or ability to adapt as the company grows.
+In this assignment, your team will analyze the human side of your startup venture and begin thinking strategically about founder roles, operational responsibilities, future hiring needs, and capability gaps.
+
+Assignment Goal
+Your team should define:
+Who is responsible for what
+Why each founder/team member is a good fit for their role
+What important skills are currently missing
+What additional people may need to be hired in the future
+What organizational or leadership challenges may emerge as the startup grows
+This is not a technical assignment. This is a startup execution and leadership assignment.
+
+What Your Team Needs to Submit
+Submit one team document. Recommended length: approximately 3–5 pages.
+Your submission should include the following sections.
 1. Startup Team Overview
 Briefly describe your startup idea again in 1–2 short paragraphs so the assignment can stand on its own.
 Then provide a high-level overview of your current startup team. Include:
@@ -78,4 +93,32 @@ What surprised you
 Whether this changed how you think about startups
 What concerns you most about building a real startup team
 
+Submission Requirements
+One submission per team
+Submit as PDF, Word, or PowerPoint
+Clearly include all team member names
+Use professional formatting
+Slides are allowed, but clear written explanations are still required
+
+Grading Rubric: 100 Points
+Category
+Points
+Clear definition of founder/team roles and responsibilities
+25
+Thoughtful analysis of skill gaps and hiring needs
+25
+Quality of startup team reasoning and organizational thinking
+20
+Depth of discussion regarding startup/team challenges
+20
+Professionalism, clarity, and organization
+10
+
+
+Important Notes
+This assignment is intended to help your team think realistically about startup execution, not just startup ideas.
+Early-stage startups often fail because of team and leadership problems rather than technology problems.
+There is no single correct organizational structure.
+Your startup idea may continue evolving after this assignment. That is expected.
+Strong entrepreneurial teams continuously reassess talent, leadership, and execution needs.
 
